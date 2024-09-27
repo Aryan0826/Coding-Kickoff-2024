@@ -1,6 +1,7 @@
 public class hello{
     public static void main(String[] args) {
         System.out.println("hello");
+        System.out.println("This is amnother line");
         //weve jus created 2 files  tht r not backed up yet
         //git add filename tracks and backups the file
         // instead of adding one by  one .. you can jus do "git add ." . is the current position
@@ -13,5 +14,6 @@ public class hello{
 
         //removing a repository  .... launch gitbash rm -rf .git
         //then git init
+        ///atishayamahrjan
     }
 }
