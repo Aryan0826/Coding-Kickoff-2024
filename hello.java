@@ -13,5 +13,6 @@ public class hello{
 
         //removing a repository  .... launch gitbash rm -rf .git
         //then git init
+        System.out.println("Try2 updated");
     }
 }
